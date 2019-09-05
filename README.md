@@ -1,2 +1,6 @@
 # JavaScriptAssignment
-FirstJavaScriptAssignment
+/*FirstJavaScriptAssignment
+JavaScriptProgram to :
+The Tallest Student
+Student with maximium Height
+*/
